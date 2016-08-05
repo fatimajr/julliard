@@ -1,0 +1,51 @@
+.padding{
+	padding-left: 15%;
+	padding-right: 15%;
+}
+.pd-b{
+	padding-bottom: 50px;
+}
+.pd-sec{
+	padding-top: 70px;
+	padding-bottom: 80px;
+	text-align: center;
+	font-size: 1.3em;
+	background-color: #F2F2F2;
+}
+.articulo{
+	text-align: left;
+	font-size: 0.8em;
+	padding: 40px 30px;
+	background-color: #d3d3d3;
+	height: 250px;
+}
+.pd-t{
+	padding-top: 5%;
+}
+.img1{
+	background-image: url("../img/blog1.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 250px;
+}
+.img2{
+	background-image: url("../img/profesor_5.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 250px;
+}
+.img3{
+	background-image: url("../img/instructor_1.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 250px;
+}
+.vermas{
+	width: 200px;
+	height: 40px;
+	background-color: #192951;
+	border-radius:3px;
+	font-size: 1em;
+	margin-top: 20px;
+	color: white;
+}

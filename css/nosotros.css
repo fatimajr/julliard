@@ -1,0 +1,65 @@
+.fondo{
+	background-image: url("../img/dance_7.jpg");
+	height: 20em;
+	margin-top: 20px;
+	background-size: 128%;
+	background-position: left;
+	padding: 90px;
+	font-size: 1.3em;
+	background-repeat: no-repeat;
+}
+.fondo2{
+	background-image: url("../img/cubes.png");
+	height: 420px;
+	background-repeat: repeat;	
+	padding:120px;
+	text-align: center;
+}
+.caja{
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	width: 50%;
+	height: 100%;
+	margin: 0px auto;
+	padding: 30px;
+	text-align: center;
+	font-size: 20px;
+}
+.pd-pilar{
+	padding: 0px 50px;
+	font-size: 1.2em;
+
+}
+.mg5-0{
+	margin: 5% 0%;
+	height: 5px;
+	color: gray;
+}
+.font1{
+	font-size: 2em;
+	color:gray;
+}
+.font2{
+	font-size:4em;
+	font-style: italic;
+}
+.font3{
+	font-size: 2.5em;
+	color:black;
+	padding: 80px 0px;
+}
+.section3{
+	padding: 0% 10%;
+}
+.pic{
+	height: 180px;
+	overflow: hidden;
+	padding: 0% 4%;
+}
+.textos{
+	padding: 4%;
+	font-size:1.3em;
+}
+.pd-pic{
+	padding: 100px 0px;
+}
