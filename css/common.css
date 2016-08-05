@@ -10,9 +10,13 @@
 	color:#192951;
 	font-size: 2em;
 }
+h1 a{
+	text-decoration: none;
+	color: #192951;
+}
 a{
 	text-decoration: none;
-	color:#192951;
+	color:white;
 }
 nav a{
 	padding: 0px 30px;
