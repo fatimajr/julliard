@@ -3,14 +3,15 @@
 	height: 20em;
 	margin-top: 20px;
 	background-size: 128%;
-	background-position: left;
 	padding: 90px;
 	font-size: 1.3em;
 	background-repeat: no-repeat;
+	background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
 }
 .fondo2{
 	background-image: url("../img/cubes.png");
-	height: 420px;
 	background-repeat: repeat;	
 	padding:120px;
 	text-align: center;
@@ -37,7 +38,9 @@
 }
 .font1{
 	font-size: 2em;
-	color:gray;
+    color: gray;
+    padding-bottom: 5%;
+    border-bottom: 1px solid gray;
 }
 .font2{
 	font-size:4em;

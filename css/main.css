@@ -16,12 +16,20 @@
 	color: white;
 }
 .boton1{
-	margin-top: 20px;
+/*	margin-top: 20px;
 	width: 150px;
 	height: 40px;
 	background-color: #020D1C;
 	border-radius:3px;
-	color: white;
+	color: white;*/
+	display: inline-block;
+    margin-top: 30px;
+    color: white;
+    text-decoration: none;
+    padding: 13px 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 3px;
+    transition: all 0.5s ease-in-out;
 }
 .boton2{
 	width: 340px;
@@ -71,6 +79,11 @@
 	margin-top: -70px;
 	padding-top: 25px;
 	font-size: 1.2em;
+	position: relative;
+}
+img:hover {
+    transform: scale(1.1);
+    transition: all .5s ease-in-out;
 }
 .frase2{
 	font-size: 2.7em;
